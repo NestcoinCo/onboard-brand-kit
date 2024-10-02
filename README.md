@@ -1,6 +1,6 @@
-# Onboard Champion Resources
-
 ![Onboard Logo](champion-resources/brand-assets/logos/wordmark/Onboard%20Logo%20Lockup%20Onboard%20Purple.svg)
+
+# Onboard Brand Resoruces
 
 This repository contains brand guidelines, assets, and resources for Onboard champions and community members.
 
@@ -12,11 +12,10 @@ At Onboard, our vision is to allow anyone anywhere to come onchain and live a ra
 
 ## Guides
 
-- [Brand Guide](brand-guidelines/brand-guide.md)
-- [Editorial Style Guide](brand-guidelines/editorial-style-guide.md)
-- [Video Creation Guide](content-creation-guidelines/video-creation-guide.md)
-- [Event Planning Checklist](community-resources/event-planning-checklist.md)
-- [Community Engagement Best Practices](community-resources/community-engagement-best-practices.md)
+- [Brand Guide](champion-resources/brand-guidelines/brand-guidelines.pdf)
+- [Editorial Style Guide](champion-resources/brand-guidelines/editorial-style-guide.md)
+- [Video Creation Guide](champion-resources/content-creation-guidelines/video-creation-guide.md)
+- [Community Events Playbooks](champion-resources/community-events-playbooks)
 
 ## Fonts
 
