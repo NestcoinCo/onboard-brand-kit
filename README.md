@@ -1,6 +1,6 @@
 ![Onboard Logo](champion-resources/brand-assets/logos/wordmark/Onboard%20Logo%20Lockup%20Onboard%20Purple.svg)
 
-# Onboard Brand Resoruces
+# Onboard Brand Resources
 
 This repository contains brand guidelines, assets, and resources for Onboard champions and community members.
 
