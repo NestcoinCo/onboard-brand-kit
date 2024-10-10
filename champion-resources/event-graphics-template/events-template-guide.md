@@ -51,20 +51,35 @@ Remember, these templates are designed to make your event planning easier while 
 
 Here's few of the available event templates:
 
-1. Build Sessions
-![Build Sessions](Build-Sessions.png)
-
-2. Buildathon
-![Buildathon](Buildathon.png)
-
-3. City Build Session
-![City Build Session](City-Build-Session.png)
-
-4. City Club Meetup
-![City Club Meetup](City-Club-Meetup.png)
-
-5. Ext Build Session
-![Ext Build Session](Ext-Build-Session.png)
-
-6. OD Meetup
-![OD Meetup](OD-Meetup.png)
+<table>
+  <tr>
+    <td width="50%">
+      <strong>1. Build Sessions</strong><br>
+      <img src="Build-Sessions.png" alt="Build Sessions" width="100%">
+    </td>
+    <td width="50%">
+      <strong>2. Buildathon</strong><br>
+      <img src="Buildathon.png" alt="Buildathon" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>3. City Build Session</strong><br>
+      <img src="City-Build-Session.png" alt="City Build Session" width="100%">
+    </td>
+    <td width="50%">
+      <strong>4. City Club Meetup</strong><br>
+      <img src="City-Club-Meetup.png" alt="City Club Meetup" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>5. Ext Build Session</strong><br>
+      <img src="Ext-Build-Session.png" alt="Ext Build Session" width="100%">
+    </td>
+    <td width="50%">
+      <strong>6. OD Meetup</strong><br>
+      <img src="OD-Meetup.png" alt="OD Meetup" width="100%">
+    </td>
+  </tr>
+</table>
