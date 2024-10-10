@@ -52,19 +52,19 @@ Remember, these templates are designed to make your event planning easier while 
 Here's few of the available event templates:
 
 1. Build Sessions
-![Build Sessions](event-graphics-template/Build-Sessions.png)
+![Build Sessions](Build-Sessions.png)
 
 2. Buildathon
-![Buildathon](event-graphics-template/Buildathon.png)
+![Buildathon](Buildathon.png)
 
 3. City Build Session
-![City Build Session](event-graphics-template/City-Build-Session.png)
+![City Build Session](City-Build-Session.png)
 
 4. City Club Meetup
-![City Club Meetup](event-graphics-template/City-Club-Meetup.png)
+![City Club Meetup](City-Club-Meetup.png)
 
 5. Ext Build Session
-![Ext Build Session](event-graphics-template/Ext-Build-Session.png)
+![Ext Build Session](Ext-Build-Session.png)
 
 6. OD Meetup
-![OD Meetup](event-graphics-template/OD-Meetup.png)
+![OD Meetup](OD-Meetup.png)
