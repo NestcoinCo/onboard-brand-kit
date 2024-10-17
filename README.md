@@ -12,7 +12,7 @@ At Onboard, our vision is to allow anyone anywhere to come onchain and live a ra
 
 ## Guides
 
-- [Brand Guide](champion-resources/brand-guidelines/brand-guidelines.pdf)
+- [Brand Guide](champion-resources/brand-guidelines/onboard-brand-guidelines.pdf)
 - [Editorial Style Guide](champion-resources/brand-guidelines/editorial-style-guide.md)
 - [Video Creation Guide](champion-resources/content-creation-guidelines/video-creation-guide.md)
 - [Community Events Playbooks](champion-resources/community-events-playbooks)
